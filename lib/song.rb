@@ -48,10 +48,8 @@ class Song
          else 
            artist_hash[artist]
           end
-          return artist_hash
-       }
-       
-     end
- 
+         }
+       end
+ return artist_hash
   
 end
