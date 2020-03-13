@@ -38,7 +38,7 @@ class Song
        end
      }
   
-       return my_hash
+      my_hash
    end
      def self.artist_count
        artist_hash = {}
@@ -50,7 +50,7 @@ class Song
           end
          }
       
-     return artist_hash
+     artist_hash
     end
   
 end
