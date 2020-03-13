@@ -46,7 +46,7 @@ class Song
          if artist_hash[artist]
            artist_hash[artist] += 1
          else 
-           artist_hash[artist]
+           artist_hash[artist] = 1
           end
          }
       
