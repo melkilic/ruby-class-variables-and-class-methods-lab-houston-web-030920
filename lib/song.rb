@@ -49,7 +49,8 @@ class Song
            artist_hash[artist]
           end
          }
-       end
+      
      return artist_hash
+    end
   
 end
